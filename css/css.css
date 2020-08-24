@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.caja1 {
+  width:280px;
+  height:460px;
+  background-image: url(../img/pc%202.png);
+  position:absolute;
+	
+  margin: auto;
+  margin-top: 150px;
+  margin-left: 600px;  
+  
+}
+.caja2{
+  width:250px;
+  height:430px;
+    
+	position: absolute;
+	left: 613px;
+	top: 163px;
+    border-radius: 8px;
+    border-color:#ffffff;
+    border: 2px solid #ffffff;
+}
+.caja2 h2{
+    color:#ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Aldrich', sans-serif;
+}
